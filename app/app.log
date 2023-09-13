@@ -1,0 +1,8 @@
+{"message":"This is an informational message.","context":{},"level":200,"level_name":"INFO","channel":"my_logger","datetime":"2023-09-13T01:25:29.521002+00:00","extra":{}}
+{"message":"This is an error message.","context":{},"level":400,"level_name":"ERROR","channel":"my_logger","datetime":"2023-09-13T01:25:29.521229+00:00","extra":{}}
+{"message":"This is a warning message.","context":{},"level":300,"level_name":"WARNING","channel":"my_logger","datetime":"2023-09-13T01:25:29.521267+00:00","extra":{}}
+{"message":"This is an informational message.","context":{},"level":200,"level_name":"INFO","channel":"my_logger","datetime":"2023-09-13T01:26:53.035922+00:00","extra":{}}
+{"message":"This is an error message.","context":{},"level":400,"level_name":"ERROR","channel":"my_logger","datetime":"2023-09-13T01:26:53.036007+00:00","extra":{}}
+{"message":"This is a warning message.","context":{},"level":300,"level_name":"WARNING","channel":"my_logger","datetime":"2023-09-13T01:26:53.036029+00:00","extra":{}}
+{"message":"{\"message\":\"This is an informational message.\",\"level\":200,\"extra\":{\"application\":\"MyApp\",\"environment\":\"Production\"}}","context":{},"level":200,"level_name":"INFO","channel":"my_logger","datetime":"2023-09-13T01:37:15.420815+00:00","extra":{}}
+{"message":"","context":{"message":"This is an informational message.","level":200,"extra":{"application":"MyApp","environment":"Production"}},"level":200,"level_name":"INFO","channel":"my_logger","datetime":"2023-09-13T01:48:43.061519+00:00","extra":{}}
